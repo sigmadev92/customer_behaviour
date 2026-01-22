@@ -1,5 +1,12 @@
 # Customer Behaviour Analysis
 
+## About
+
+This is a walk through project that I did by following a video on youtube by @amlanmohanty1.
+
+- This project deals with analysing a dataset of 3900 customers for a leading e-commerce company.
+- The analysis has been done to analyse the customer behaviour towards purchasing products.
+
 ## Table Of Content
 
 1. Problem Statement
